@@ -7,5 +7,5 @@ This Project is for getting to know Node.js and start smoothly with it.
 ** IDE: PhpStorm
 <br>
 
-Commit 1 : Node.js - Tutorial - First Application (Hello World! From Server.js)
-Commit 2 : Node.js - Tutorial - JavaScript Modules & Anonymous Functions
+Commit (1-4) : Node.js - Tutorial - First Application (Hello World! From Server.js)
+Commit (5-) : Node.js - Tutorial - JavaScript Modules & Anonymous Functions
